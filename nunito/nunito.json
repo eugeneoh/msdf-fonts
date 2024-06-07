@@ -6,7 +6,6 @@
         {
             "id": 87,
             "index": 218,
-            "char": "W",
             "width": 38,
             "height": 28,
             "xadvance": 36,
@@ -17,7 +16,6 @@
         {
             "id": 36,
             "index": 926,
-            "char": "$",
             "width": 21,
             "height": 35,
             "xadvance": 20,
@@ -28,7 +26,6 @@
         {
             "id": 40,
             "index": 885,
-            "char": "(",
             "width": 10,
             "height": 34,
             "xadvance": 10,
@@ -39,7 +36,6 @@
         {
             "id": 41,
             "index": 886,
-            "char": ")",
             "width": 10,
             "height": 34,
             "xadvance": 10,
@@ -50,7 +46,6 @@
         {
             "id": 81,
             "index": 166,
-            "char": "Q",
             "width": 25,
             "height": 34,
             "xadvance": 25,
@@ -61,7 +56,6 @@
         {
             "id": 124,
             "index": 915,
-            "char": "|",
             "width": 7,
             "height": 34,
             "xadvance": 9,
@@ -72,7 +66,6 @@
         {
             "id": 64,
             "index": 905,
-            "char": "@",
             "width": 31,
             "height": 33,
             "xadvance": 31,
@@ -83,7 +76,6 @@
         {
             "id": 91,
             "index": 889,
-            "char": "[",
             "width": 11,
             "height": 33,
             "xadvance": 10,
@@ -94,7 +86,6 @@
         {
             "id": 93,
             "index": 890,
-            "char": "]",
             "width": 11,
             "height": 33,
             "xadvance": 10,
@@ -105,7 +96,6 @@
         {
             "id": 106,
             "index": 345,
-            "char": "j",
             "width": 12,
             "height": 33,
             "xadvance": 8,
@@ -116,7 +106,6 @@
         {
             "id": 123,
             "index": 887,
-            "char": "{",
             "width": 14,
             "height": 33,
             "xadvance": 12,
@@ -127,7 +116,6 @@
         {
             "id": 125,
             "index": 888,
-            "char": "}",
             "width": 14,
             "height": 33,
             "xadvance": 12,
@@ -138,7 +126,6 @@
         {
             "id": 37,
             "index": 974,
-            "char": "%",
             "width": 31,
             "height": 29,
             "xadvance": 31,
@@ -149,7 +136,6 @@
         {
             "id": 47,
             "index": 874,
-            "char": "/",
             "width": 14,
             "height": 31,
             "xadvance": 9,
@@ -160,7 +146,6 @@
         {
             "id": 92,
             "index": 875,
-            "char": "\\",
             "width": 14,
             "height": 31,
             "xadvance": 9,
@@ -171,7 +156,6 @@
         {
             "id": 119,
             "index": 465,
-            "char": "w",
             "width": 29,
             "height": 21,
             "xadvance": 28,
@@ -182,7 +166,6 @@
         {
             "id": 33,
             "index": 866,
-            "char": "!",
             "width": 8,
             "height": 28,
             "xadvance": 8,
@@ -193,7 +176,6 @@
         {
             "id": 35,
             "index": 873,
-            "char": "#",
             "width": 22,
             "height": 28,
             "xadvance": 20,
@@ -204,7 +186,6 @@
         {
             "id": 38,
             "index": 906,
-            "char": "&",
             "width": 23,
             "height": 28,
             "xadvance": 23,
@@ -215,7 +196,6 @@
         {
             "id": 48,
             "index": 784,
-            "char": "0",
             "width": 20,
             "height": 28,
             "xadvance": 20,
@@ -226,7 +206,6 @@
         {
             "id": 50,
             "index": 786,
-            "char": "2",
             "width": 20,
             "height": 28,
             "xadvance": 20,
@@ -237,7 +216,6 @@
         {
             "id": 51,
             "index": 787,
-            "char": "3",
             "width": 20,
             "height": 28,
             "xadvance": 20,
@@ -248,7 +226,6 @@
         {
             "id": 52,
             "index": 788,
-            "char": "4",
             "width": 21,
             "height": 28,
             "xadvance": 20,
@@ -259,7 +236,6 @@
         {
             "id": 53,
             "index": 789,
-            "char": "5",
             "width": 20,
             "height": 28,
             "xadvance": 20,
@@ -270,7 +246,6 @@
         {
             "id": 54,
             "index": 790,
-            "char": "6",
             "width": 20,
             "height": 28,
             "xadvance": 20,
@@ -281,7 +256,6 @@
         {
             "id": 56,
             "index": 792,
-            "char": "8",
             "width": 21,
             "height": 28,
             "xadvance": 20,
@@ -292,7 +266,6 @@
         {
             "id": 57,
             "index": 793,
-            "char": "9",
             "width": 20,
             "height": 28,
             "xadvance": 20,
@@ -303,7 +276,6 @@
         {
             "id": 63,
             "index": 868,
-            "char": "?",
             "width": 18,
             "height": 28,
             "xadvance": 15,
@@ -314,7 +286,6 @@
         {
             "id": 65,
             "index": 1,
-            "char": "A",
             "width": 26,
             "height": 28,
             "xadvance": 24,
@@ -325,7 +296,6 @@
         {
             "id": 67,
             "index": 32,
-            "char": "C",
             "width": 23,
             "height": 28,
             "xadvance": 22,
@@ -336,7 +306,6 @@
         {
             "id": 71,
             "index": 74,
-            "char": "G",
             "width": 23,
             "height": 28,
             "xadvance": 24,
@@ -347,7 +316,6 @@
         {
             "id": 72,
             "index": 81,
-            "char": "H",
             "width": 23,
             "height": 28,
             "xadvance": 25,
@@ -358,7 +326,6 @@
         {
             "id": 73,
             "index": 86,
-            "char": "I",
             "width": 7,
             "height": 28,
             "xadvance": 8,
@@ -369,7 +336,6 @@
         {
             "id": 74,
             "index": 102,
-            "char": "J",
             "width": 12,
             "height": 28,
             "xadvance": 11,
@@ -380,7 +346,6 @@
         {
             "id": 75,
             "index": 104,
-            "char": "K",
             "width": 21,
             "height": 28,
             "xadvance": 21,
@@ -391,7 +356,6 @@
         {
             "id": 77,
             "index": 116,
-            "char": "M",
             "width": 26,
             "height": 28,
             "xadvance": 28,
@@ -402,7 +366,6 @@
         {
             "id": 78,
             "index": 118,
-            "char": "N",
             "width": 23,
             "height": 28,
             "xadvance": 24,
@@ -413,7 +376,6 @@
         {
             "id": 79,
             "index": 129,
-            "char": "O",
             "width": 25,
             "height": 28,
             "xadvance": 25,
@@ -424,7 +386,6 @@
         {
             "id": 83,
             "index": 175,
-            "char": "S",
             "width": 21,
             "height": 28,
             "xadvance": 20,
@@ -435,7 +396,6 @@
         {
             "id": 85,
             "index": 194,
-            "char": "U",
             "width": 23,
             "height": 28,
             "xadvance": 24,
@@ -446,7 +406,6 @@
         {
             "id": 86,
             "index": 217,
-            "char": "V",
             "width": 26,
             "height": 28,
             "xadvance": 23,
@@ -457,7 +416,6 @@
         {
             "id": 88,
             "index": 223,
-            "char": "X",
             "width": 23,
             "height": 28,
             "xadvance": 21,
@@ -468,7 +426,6 @@
         {
             "id": 89,
             "index": 224,
-            "char": "Y",
             "width": 23,
             "height": 28,
             "xadvance": 20,
@@ -479,7 +436,6 @@
         {
             "id": 98,
             "index": 271,
-            "char": "b",
             "width": 19,
             "height": 28,
             "xadvance": 19,
@@ -490,7 +446,6 @@
         {
             "id": 100,
             "index": 280,
-            "char": "d",
             "width": 19,
             "height": 28,
             "xadvance": 19,
@@ -501,7 +456,6 @@
         {
             "id": 102,
             "index": 314,
-            "char": "f",
             "width": 15,
             "height": 28,
             "xadvance": 11,
@@ -512,7 +466,6 @@
         {
             "id": 104,
             "index": 323,
-            "char": "h",
             "width": 18,
             "height": 28,
             "xadvance": 19,
@@ -523,7 +476,6 @@
         {
             "id": 107,
             "index": 348,
-            "char": "k",
             "width": 17,
             "height": 28,
             "xadvance": 17,
@@ -534,7 +486,6 @@
         {
             "id": 108,
             "index": 352,
-            "char": "l",
             "width": 11,
             "height": 28,
             "xadvance": 10,
@@ -545,7 +496,6 @@
         {
             "id": 49,
             "index": 785,
-            "char": "1",
             "width": 17,
             "height": 27,
             "xadvance": 20,
@@ -556,7 +506,6 @@
         {
             "id": 55,
             "index": 791,
-            "char": "7",
             "width": 20,
             "height": 27,
             "xadvance": 20,
@@ -567,7 +516,6 @@
         {
             "id": 66,
             "index": 30,
-            "char": "B",
             "width": 21,
             "height": 27,
             "xadvance": 22,
@@ -578,7 +526,6 @@
         {
             "id": 68,
             "index": 39,
-            "char": "D",
             "width": 24,
             "height": 27,
             "xadvance": 24,
@@ -589,7 +536,6 @@
         {
             "id": 69,
             "index": 48,
-            "char": "E",
             "width": 19,
             "height": 27,
             "xadvance": 19,
@@ -600,7 +546,6 @@
         {
             "id": 70,
             "index": 73,
-            "char": "F",
             "width": 19,
             "height": 27,
             "xadvance": 18,
@@ -611,7 +556,6 @@
         {
             "id": 76,
             "index": 106,
-            "char": "L",
             "width": 19,
             "height": 27,
             "xadvance": 18,
@@ -622,7 +566,6 @@
         {
             "id": 80,
             "index": 164,
-            "char": "P",
             "width": 21,
             "height": 27,
             "xadvance": 21,
@@ -633,7 +576,6 @@
         {
             "id": 82,
             "index": 167,
-            "char": "R",
             "width": 22,
             "height": 27,
             "xadvance": 22,
@@ -644,7 +586,6 @@
         {
             "id": 84,
             "index": 187,
-            "char": "T",
             "width": 24,
             "height": 27,
             "xadvance": 20,
@@ -655,7 +596,6 @@
         {
             "id": 90,
             "index": 235,
-            "char": "Z",
             "width": 22,
             "height": 27,
             "xadvance": 19,
@@ -666,7 +606,6 @@
         {
             "id": 103,
             "index": 315,
-            "char": "g",
             "width": 19,
             "height": 27,
             "xadvance": 19,
@@ -677,7 +616,6 @@
         {
             "id": 105,
             "index": 329,
-            "char": "i",
             "width": 7,
             "height": 27,
             "xadvance": 8,
@@ -688,7 +626,6 @@
         {
             "id": 109,
             "index": 361,
-            "char": "m",
             "width": 27,
             "height": 21,
             "xadvance": 28,
@@ -699,7 +636,6 @@
         {
             "id": 112,
             "index": 409,
-            "char": "p",
             "width": 19,
             "height": 27,
             "xadvance": 19,
@@ -710,7 +646,6 @@
         {
             "id": 113,
             "index": 411,
-            "char": "q",
             "width": 19,
             "height": 27,
             "xadvance": 19,
@@ -721,7 +656,6 @@
         {
             "id": 121,
             "index": 471,
-            "char": "y",
             "width": 19,
             "height": 26,
             "xadvance": 17,
@@ -732,7 +666,6 @@
         {
             "id": 116,
             "index": 432,
-            "char": "t",
             "width": 16,
             "height": 25,
             "xadvance": 12,
@@ -743,7 +676,6 @@
         {
             "id": 59,
             "index": 864,
-            "char": ";",
             "width": 8,
             "height": 24,
             "xadvance": 8,
@@ -754,7 +686,6 @@
         {
             "id": 43,
             "index": 949,
-            "char": "+",
             "width": 21,
             "height": 21,
             "xadvance": 20,
@@ -765,7 +696,6 @@
         {
             "id": 60,
             "index": 956,
-            "char": "<",
             "width": 21,
             "height": 20,
             "xadvance": 20,
@@ -776,7 +706,6 @@
         {
             "id": 61,
             "index": 953,
-            "char": "=",
             "width": 21,
             "height": 13,
             "xadvance": 20,
@@ -787,7 +716,6 @@
         {
             "id": 62,
             "index": 955,
-            "char": ">",
             "width": 21,
             "height": 20,
             "xadvance": 20,
@@ -798,7 +726,6 @@
         {
             "id": 94,
             "index": 963,
-            "char": "^",
             "width": 20,
             "height": 21,
             "xadvance": 20,
@@ -809,7 +736,6 @@
         {
             "id": 97,
             "index": 242,
-            "char": "a",
             "width": 17,
             "height": 21,
             "xadvance": 17,
@@ -820,7 +746,6 @@
         {
             "id": 99,
             "index": 273,
-            "char": "c",
             "width": 17,
             "height": 21,
             "xadvance": 15,
@@ -831,7 +756,6 @@
         {
             "id": 101,
             "index": 288,
-            "char": "e",
             "width": 19,
             "height": 21,
             "xadvance": 18,
@@ -842,7 +766,6 @@
         {
             "id": 110,
             "index": 363,
-            "char": "n",
             "width": 18,
             "height": 21,
             "xadvance": 19,
@@ -853,7 +776,6 @@
         {
             "id": 111,
             "index": 374,
-            "char": "o",
             "width": 19,
             "height": 21,
             "xadvance": 18,
@@ -864,7 +786,6 @@
         {
             "id": 114,
             "index": 412,
-            "char": "r",
             "width": 13,
             "height": 21,
             "xadvance": 12,
@@ -875,7 +796,6 @@
         {
             "id": 115,
             "index": 420,
-            "char": "s",
             "width": 17,
             "height": 21,
             "xadvance": 16,
@@ -886,7 +806,6 @@
         {
             "id": 117,
             "index": 440,
-            "char": "u",
             "width": 18,
             "height": 21,
             "xadvance": 19,
@@ -897,7 +816,6 @@
         {
             "id": 118,
             "index": 464,
-            "char": "v",
             "width": 19,
             "height": 21,
             "xadvance": 17,
@@ -908,7 +826,6 @@
         {
             "id": 58,
             "index": 863,
-            "char": ":",
             "width": 8,
             "height": 20,
             "xadvance": 8,
@@ -919,7 +836,6 @@
         {
             "id": 95,
             "index": 884,
-            "char": "_",
             "width": 20,
             "height": 6,
             "xadvance": 17,
@@ -930,7 +846,6 @@
         {
             "id": 120,
             "index": 470,
-            "char": "x",
             "width": 18,
             "height": 20,
             "xadvance": 17,
@@ -941,7 +856,6 @@
         {
             "id": 122,
             "index": 482,
-            "char": "z",
             "width": 17,
             "height": 20,
             "xadvance": 15,
@@ -952,7 +866,6 @@
         {
             "id": 126,
             "index": 961,
-            "char": "~",
             "width": 20,
             "height": 9,
             "xadvance": 20,
@@ -963,7 +876,6 @@
         {
             "id": 42,
             "index": 872,
-            "char": "*",
             "width": 17,
             "height": 15,
             "xadvance": 15,
@@ -974,7 +886,6 @@
         {
             "id": 34,
             "index": 901,
-            "char": "\"",
             "width": 13,
             "height": 14,
             "xadvance": 13,
@@ -985,7 +896,6 @@
         {
             "id": 39,
             "index": 902,
-            "char": "'",
             "width": 7,
             "height": 14,
             "xadvance": 7,
@@ -996,7 +906,6 @@
         {
             "id": 45,
             "index": 877,
-            "char": "-",
             "width": 14,
             "height": 6,
             "xadvance": 14,
@@ -1007,7 +916,6 @@
         {
             "id": 44,
             "index": 862,
-            "char": ",",
             "width": 8,
             "height": 11,
             "xadvance": 8,
@@ -1018,7 +926,6 @@
         {
             "id": 96,
             "index": 1074,
-            "char": "`",
             "width": 9,
             "height": 11,
             "xadvance": 12,
@@ -1029,7 +936,6 @@
         {
             "id": 46,
             "index": 861,
-            "char": ".",
             "width": 8,
             "height": 8,
             "xadvance": 8,
@@ -1040,7 +946,6 @@
         {
             "id": 32,
             "index": 855,
-            "char": " ",
             "width": 0,
             "height": 0,
             "xadvance": 9,
